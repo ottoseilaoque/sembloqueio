@@ -18,10 +18,8 @@ body {
 }
 
 #jogos {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 30px;
 }
 
@@ -34,7 +32,7 @@ body {
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    width: 600px;
+    width: 550px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -82,4 +80,9 @@ a:hover {
         width: 150px;
         height: 150px;
     }
+    #jogos {
+        display: flex ;
+        flex-direction: collumn;
+    }
+        
 }
