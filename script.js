@@ -15,6 +15,8 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Pac man", url: "https://www.onlinescientificresearch.com/games/pac-man/", img: "https://i.guim.co.uk/img/media/8152f8ea7f06fd8ef5c68a3a594e6ac35dfd774b/0_342_800_480/master/800.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=42bb412858826e59cd33e40975ca3ee1" },
             { nome: "Subway Clash 3D", url: "https://clash3d.com/subwayclash3d", img: "https://i.ytimg.com/vi/Jy_lK4yN6zk/maxresdefault.jpg" },
             { nome: "Human Benchmark", url: "https://humanbenchmark.com/", img: "https://humanbenchmark.com/favicon.ico" },
+            { nome: "Subway surfers", url: "https://subwaysurfersunblocked.org/pt", img: "https://th.bing.com/th/id/R.9ba8ede2adb6d73b8e2e4d3bf7d5edb4?rik=YD78SVnM%2f7q8UQ&pid=ImgRaw&r=0" },
+            { nome: "Bad ice cream", url: "https://frivwtf.com/pt/bad-ice-cream", img: "https://th.bing.com/th/id/R.ee37599fa6d214931049c257207f8ffc?rik=MvL2EmlDODJT1w&pid=ImgRaw&r=0" },
         ]
         
         informacoesJogos.forEach(item => {
