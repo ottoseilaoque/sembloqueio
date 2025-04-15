@@ -18,7 +18,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Subway Surfers", url: "https://subwaysurfersunblocked.org/pt", img: "https://th.bing.com/th/id/R.9ba8ede2adb6d73b8e2e4d3bf7d5edb4?rik=YD78SVnM%2f7q8UQ&pid=ImgRaw&r=0" },
             { nome: "Bad Ice Cream", url: "https://frivwtf.com/pt/bad-ice-cream", img: "https://th.bing.com/th/id/R.ee37599fa6d214931049c257207f8ffc?rik=MvL2EmlDODJT1w&pid=ImgRaw&r=0" },
             { nome: "Bad Ice Cream 2", url: "https://frivwtf.com/pt/bad-ice-cream-2", img: "https://th.bing.com/th/id/OIP.GCMJJYQSutEjs9fKqCtymwHaHa?rs=1&pid=ImgDetMain" },
-            { nome: "Bad Ice Cream 3", url: "https://frivwtf.com/pt/bad-ice-cream-3", img: "https://frivwtf.com/images/bad-ice-cream-3.jpg" },
+            { nome: "Bad Ice Cream 3", url: "https://frivwtf.com/pt/bad-ice-cream-3", img: "https://jogosonlinegratis.net/wp-content/uploads/2022/05/bad-ice-cream-3-300x281.jpg" },
             { nome: "Head Ball", url: "https://pogogamesplay.com/games/online-head-ball", img: "https://play-lh.googleusercontent.com/lTV8ClfOPTcWnZA5xwTJq4v9PAzc-wwr08IbB9CGFw9ozmfUvX0MRnK5LFRz4ad-Ig" },
             { nome: "Plants Vs Zombies", url: "https://jogosnainternet.com.br/jogo/plants-vs-zombies/", img: "https://th.bing.com/th/id/R.95e5247e3e9848e22f91ebdabf2e63d0?rik=vTB56dCX2sL8ug&pid=ImgRaw&r=0" },
             { nome: "Fnaf", url: "https://fngames.io/fnaf", img: "https://th.bing.com/th/id/OIP.XW_OsPwLtSFaQrOSHEr5eAHaHa?rs=1&pid=ImgDetMain" },    
