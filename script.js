@@ -25,6 +25,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Bad Time Simulator", url: "https://jcw87.github.io/c2-sans-fight/", img: "https://th.bing.com/th/id/OIP.Vtq20rr2g4GQRXx3bCxRzAHaJ4?rs=1&pid=ImgDetMain" },    
             { nome: "Mope.io", url: "https://mope.io/", img: "https://th.bing.com/th/id/OIP.4IWzgpNLsmea_UdVCeSODQAAAA?rs=1&pid=ImgDetMain" },    
             { nome: "Friday Night Funkin", url: "https://sites.google.com/site/fnfunblocked/games", img: "https://1000logos.net/wp-content/uploads/2021/11/Friday-Night-Funkin-Logo.png" },    
+            { nome: "Tetris", url: "https://unblockeds-games.github.io/tetris/", img: "https://vectorseek.com/wp-content/uploads/2023/10/tetris-Logo-Vector.svg-.png" },    
     
         ]
         
