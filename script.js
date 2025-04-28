@@ -32,6 +32,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Limax.io", url: "https://limax.io/", img: "https://th.bing.com/th/id/OIP.ibIkHpjhJHOn_tdTERNPRAHaFj?rs=1&pid=ImgDetMain" },    
             { nome: "Friday Night Funkin", url: "https://sites.google.com/site/fnfunblocked/games", img: "https://1000logos.net/wp-content/uploads/2021/11/Friday-Night-Funkin-Logo.png" },    
             { nome: "Tetris", url: "https://unblockeds-games.github.io/tetris/", img: "https://vectorseek.com/wp-content/uploads/2023/10/tetris-Logo-Vector.svg-.png" },    
+            { nome: "The Binding of Isaac", url: "https://jman1593.github.io/play/?id=1151", img: "https://th.bing.com/th/id/OIP.UCdc8Ab2Iv_m5TYqB7gizAHaEK?rs=1&pid=ImgDetMain" },    
     
         ]
         
