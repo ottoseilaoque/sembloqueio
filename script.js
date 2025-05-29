@@ -35,7 +35,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Friday Night Funkin", url: "https://sites.google.com/site/fnfunblocked/games", img: "https://1000logos.net/wp-content/uploads/2021/11/Friday-Night-Funkin-Logo.png" },    
             { nome: "Tetris", url: "https://unblockeds-games.github.io/tetris/", img: "https://vectorseek.com/wp-content/uploads/2023/10/tetris-Logo-Vector.svg-.png" },    
             { nome: "The Binding of Isaac", url: "https://jman1593.github.io/play/?id=1151", img: "https://th.bing.com/th/id/OIP.UCdc8Ab2Iv_m5TYqB7gizAHaEK?rs=1&pid=ImgDetMain" },    
-            { nome: "Rogue souls", url:"https://jman1593.github.io/play/?id=1151", img: "https://th.bing.com/th/id/OIP.2nNfz9ME7wvmzYai0z7Z6gAAAA?rs=1&pid=ImgDetMain" },    
+            { nome: "Rogue souls", url:"https://jman1593.github.io/play/?id=723", img: "https://th.bing.com/th/id/OIP.2nNfz9ME7wvmzYai0z7Z6gAAAA?rs=1&pid=ImgDetMain" },    
             { nome: "Swords and souls", url: "https://jman1593.github.io/play/?id=338", img: "https://vignette.wikia.nocookie.net/liberproeliis/images/2/2c/Soul_(Swords_and_Souls).jpg/revision/latest?cb=20161230204611&path-prefix=pt-br" },    
     
         ]
