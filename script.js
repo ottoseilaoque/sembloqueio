@@ -28,7 +28,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Head Ball", url: "https://pogogamesplay.com/games/online-head-ball", img: "https://play-lh.googleusercontent.com/lTV8ClfOPTcWnZA5xwTJq4v9PAzc-wwr08IbB9CGFw9ozmfUvX0MRnK5LFRz4ad-Ig" },
             { nome: "Plants Vs Zombies", url: "https://jogosnainternet.com.br/jogo/plants-vs-zombies/", img: "https://th.bing.com/th/id/R.95e5247e3e9848e22f91ebdabf2e63d0?rik=vTB56dCX2sL8ug&pid=ImgRaw&r=0" },
             { nome: "Fnaf", url: "https://fngames.io/fnaf", img: "https://th.bing.com/th/id/OIP.XW_OsPwLtSFaQrOSHEr5eAHaHa?rs=1&pid=ImgDetMain" },    
-            { nome: "Bad Time Simulator", url: "https://jcw87.github.io/c2-sans-fight/", img: "https://th.bing.com/th/id/OIP.Vtq20rr2g4GQRXx3bCxRzAHaJ4?rs=1&pid=ImgDetMain" },    
+            { nome: "Bad Time Simulator", url: "https://jcw87.github.io/c2-sans-fight/", img: "https://th.bing.com/th/id/OIP.t4mHEPOasYEW074cd0i1nQHaHa?w=170&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },    
             { nome: "Zorb.io", url: "https://zorb.io/", img: "https://th.bing.com/th/id/OIP.SVSnnjMGnzrWRVOJk0o91wHaEK?rs=1&pid=ImgDetMain" },    
             { nome: "Mope.io", url: "https://mope.io/", img: "https://th.bing.com/th/id/OIP.4IWzgpNLsmea_UdVCeSODQAAAA?rs=1&pid=ImgDetMain" },    
             { nome: "Limax.io", url: "https://limax.io/", img: "https://th.bing.com/th/id/OIP.ibIkHpjhJHOn_tdTERNPRAHaFj?rs=1&pid=ImgDetMain" },    
