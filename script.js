@@ -51,7 +51,6 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Fireboy and Watergirl 4", url: "https://jman1593.github.io/play/?id=592", img: "https://th.bing.com/th/id/OIP.VnmYjzLic_Y0ZxqgHUtMKQHaE8?r=0&cb=thvnextc1&rs=1&pid=ImgDetMain" },
             { nome: "Fireboy and Watergirl 5", url: "https://jman1593.github.io/play/?id=593", img: "https://th.bing.com/th/id/R.bf00532d6fa61120c89d933cc7f9dfcf?rik=qXuM6uTzcLleLA&pid=ImgRaw&r=0" },
             { nome: "Fireboy and Watergirl 6", url: "https://jman1593.github.io/play/?id=594", img: "https://i.ytimg.com/vi/_5pu6CRCM4Y/maxresdefault.jpg" },
-            { nome: "", url: "", img: "" },
                 
     
         ]
