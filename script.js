@@ -15,7 +15,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Geometry Dash", url: "https://geometrydashlite.io/geometry-dash-lite", img: "https://th.bing.com/th/id/R.2a527448abbb085f6c89793cfb5f65f5?rik=A7ss82CSOJPrkg&riu=http%3a%2f%2fvignette2.wikia.nocookie.net%2fgeometry-dash%2fimages%2f9%2f90%2fGeometryDash.png%2frevision%2flatest%3fcb%3d20160224042843&ehk=Hvk2rFdCmF08iQinZYieMsLbvo4NDNdKYic8xB6GqZE%3d&risl=&pid=ImgRaw&r=0" },
             { nome: "Just One Boss", url: "https://jman1593.github.io/html/just%20one%20boss/index.html", img: "https://th.bing.com/th/id/OIP.qL5ZGCMduZQumkyNrkxOnwAAAA?rs=1&pid=ImgDetMain" },
             { nome: "Yandex games", url: "https://yandex.com/games/", img: "https://play-lh.googleusercontent.com/yi6-in34SPMUTRgna0EqQyj6B0lZNLeRCBarSxwdqm5rv-SO46FJmjQfrSRkbHSk4F-V" },
-            { nome: "Coreball", url: "https://www.arealme.com/coreball/pt/", img: "https://doodle-jump.co/data/image/game/coreball.jpg" },
+            { nome: "Coreball", url: "https://www.onlinescientificresearch.com/games/core-ball/", img: "https://doodle-jump.co/data/image/game/coreball.jpg" },
             { nome: "Mario All Stars", url: "https://www.smbgames.be/super-mario-all-stars.php", img: "https://i.ytimg.com/vi/SNl6WJygciw/maxresdefault.jpg" },
             { nome: "Monkey Mart", url: "https://inzoiplay.com/monkey-market/", img: "https://th.bing.com/th/id/OIP.p-YmWD4Xidvel4SQocIxdwHaHp?rs=1&pid=ImgDetMain" },
             { nome: "Pac Man", url: "https://www.onlinescientificresearch.com/games/pac-man/", img: "https://i.guim.co.uk/img/media/8152f8ea7f06fd8ef5c68a3a594e6ac35dfd774b/0_342_800_480/master/800.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=42bb412858826e59cd33e40975ca3ee1" },
@@ -37,7 +37,10 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Tung Tralala Playground: Italian Meme Sandbox", url: "https://yandex.com/games/app/439348", img: "https://avatars.mds.yandex.net/get-games/1881364/2a00000196f857c8d295ee83c651a5e9918e/pjpg160x160" },    
             { nome: "The Binding of Isaac", url: "https://jman1593.github.io/play/?id=1151", img: "https://th.bing.com/th/id/OIP.UCdc8Ab2Iv_m5TYqB7gizAHaEK?rs=1&pid=ImgDetMain" },    
             { nome: "Rogue souls", url:"https://jman1593.github.io/play/?id=723", img: "https://th.bing.com/th/id/OIP.2nNfz9ME7wvmzYai0z7Z6gAAAA?rs=1&pid=ImgDetMain" },    
-            { nome: "Swords and souls", url: "https://jman1593.github.io/play/?id=338", img: "https://vignette.wikia.nocookie.net/liberproeliis/images/2/2c/Soul_(Swords_and_Souls).jpg/revision/latest?cb=20161230204611&path-prefix=pt-br" },    
+            { nome: "Swords and souls", url: "https://jman1593.github.io/play/?id=338", img: "https://vignette.wikia.nocookie.net/liberproeliis/images/2/2c/Soul_(Swords_and_Souls).jpg/revision/latest?cb=20161230204611&path-prefix=pt-br" }, 
+            { nome: "City Guesser", url: "https://virtualvacation.us/guess", img: "https://thumbs.dreamstime.com/b/globe-m%C3%A9tallique-bleu-de-la-terre-51946285.jpg" },
+            { nome: "Quick, Draw !", url: "https://quickdraw.withgoogle.com/", img: "https://th.bing.com/th/id/OIP.lDUuSOrwMFRG_ixFHZAgzwAAAA?r=0&rs=1&pid=ImgDetMain" }, 
+            { nome: "Townscaper", url: "https://oskarstalberg.com/Townscaper/", img: "https://th.bing.com/th/id/OIP.5YHcgLeSYFN_VX7iaWvYMQHaJ3?r=0&o=7rm=3&rs=1&pid=ImgDetMain" },    
     
         ]
         
