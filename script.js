@@ -1,5 +1,6 @@
 const idJogos = document.querySelector("#jogos")
         const informacoesJogos = [
+            { nome: "Str0ngDogXP", url: "https://jman1593.github.io/index.html", img: "https://th.bing.com/th/id/OIP.imiD_hFMk8JsYKd-L1cRkAHaHa?r=0&cb=thvnextc1&rs=1&pid=ImgDetMain" },
             { nome: "Google Snake", url: "https://sites.google.com/site/populardoodlegames/google-snake", img: "https://www.harapanrakyat.com/wp-content/uploads/2022/05/Game-Snake-Google-Maps-yang-Seru-Simak-Cara-untuk-Memainkannya-1024x576.jpg" },
             { nome: "Olimpiadas do Google", url: "https://doodles.google/doodle/doodle-champion-island-games-begin/", img: "https://1.bp.blogspot.com/-uaKqHC-oI70/YPpRE0vAoOI/AAAAAAAAavU/AqIbpF7wOwAfmwPk73RoAlCKf7_toGMKgCLcBGAsYHQ/w1200-h630-p-k-no-nu/doodle-champion-island-google-game-olimpiadas-toquio-2020.jpeg" },
             { nome: "Paciencia", url: "https://www.google.com/search?q=paciencia&sca_esv=9d62b89f1e8f3e7d&sxsrf=AHTn8zrLwYu97O6c4spSwyugE1BTnYsONQ%3A1745504310854&source=hp&ei=NkgKaM7zMNn35OUPquuYiAQ&iflsig=ACkRmUkAAAAAaApWRnLYEwYaWmsDnwD-7Cmcxn1tsD_P&oq=pac&gs_lp=Egdnd3Mtd2l6IgNwYWMqAggAMgoQIxiABBgnGIoFMgoQIxiABBgnGIoFMg4QLhiABBixAxiDARjUAjIIEAAYgAQYsQMyCBAAGIAEGLEDMggQLhiABBixAzIIEAAYgAQYsQMyBRAAGIAEMgsQLhiABBixAxiDATIFEC4YgARI4BNQAFjrAnAAeACQAQCYAX2gAe4CqgEDMC4zuAEByAEA-AEBmAIDoAL7AsICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwGYAwCSBwMwLjOgB9QnsgcDMC4zuAf7Ag&sclient=gws-wiz", img: "https://th.bing.com/th/id/OIP.SesfU0GKAIcmUbQ25ckUlAHaJ4?rs=1&pid=ImgDetMain" },
@@ -16,7 +17,8 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Just One Boss", url: "https://jman1593.github.io/html/just%20one%20boss/index.html", img: "https://th.bing.com/th/id/OIP.qL5ZGCMduZQumkyNrkxOnwAAAA?rs=1&pid=ImgDetMain" },
             { nome: "Yandex games", url: "https://yandex.com/games/", img: "https://play-lh.googleusercontent.com/yi6-in34SPMUTRgna0EqQyj6B0lZNLeRCBarSxwdqm5rv-SO46FJmjQfrSRkbHSk4F-V" },
             { nome: "Coreball", url: "https://www.onlinescientificresearch.com/games/core-ball/", img: "https://doodle-jump.co/data/image/game/coreball.jpg" },
-            { nome: "Mario All Stars", url: "https://www.smbgames.be/super-mario-all-stars.php", img: "https://i.ytimg.com/vi/SNl6WJygciw/maxresdefault.jpg" },
+            { nome: "Super Mario All Stars", url: "https://www.smbgames.be/super-mario-all-stars.php", img: "https://i.ytimg.com/vi/SNl6WJygciw/maxresdefault.jpg" },
+            { nome: "Super Mario World", url: "https://jman1593.github.io/play/?id=971", img: "https://th.bing.com/th/id/R.5548b45307457395ba9281d8a5f4f558?rik=z9QXYZfFsMoOwg&riu=http%3a%2f%2fcdn02.nintendo-europe.com%2fmedia%2fimages%2f11_square_images%2fgames_18%2fsuper_nintendo_4%2fSQ_SNES_SuperMarioWorld.jpg&ehk=QlF7AlxXxmhnO2UuM4mDdrn8wGKIGM8VpBY1YG0WVVc%3d&risl=&pid=ImgRaw&r=0" },    
             { nome: "Monkey Mart", url: "https://inzoiplay.com/monkey-market/", img: "https://th.bing.com/th/id/OIP.p-YmWD4Xidvel4SQocIxdwHaHp?rs=1&pid=ImgDetMain" },
             { nome: "Pac Man", url: "https://www.onlinescientificresearch.com/games/pac-man/", img: "https://i.guim.co.uk/img/media/8152f8ea7f06fd8ef5c68a3a594e6ac35dfd774b/0_342_800_480/master/800.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=42bb412858826e59cd33e40975ca3ee1" },
             { nome: "Subway Clash 3D", url: "https://clash3d.com/subwayclash3d", img: "https://i.ytimg.com/vi/Jy_lK4yN6zk/maxresdefault.jpg" },
@@ -36,12 +38,21 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Tetris", url: "https://unblockeds-games.github.io/tetris/", img: "https://vectorseek.com/wp-content/uploads/2023/10/tetris-Logo-Vector.svg-.png" },    
             { nome: "Tung Tralala Playground: Italian Meme Sandbox", url: "https://yandex.com/games/app/439348", img: "https://avatars.mds.yandex.net/get-games/1881364/2a00000196f857c8d295ee83c651a5e9918e/pjpg160x160" },    
             { nome: "The Binding of Isaac", url: "https://jman1593.github.io/play/?id=1151", img: "https://th.bing.com/th/id/OIP.UCdc8Ab2Iv_m5TYqB7gizAHaEK?rs=1&pid=ImgDetMain" },    
-            { nome: "Rogue souls", url:"https://jman1593.github.io/play/?id=723", img: "https://th.bing.com/th/id/OIP.2nNfz9ME7wvmzYai0z7Z6gAAAA?rs=1&pid=ImgDetMain" },    
+            { nome: "Rogue souls 1", url:"https://jman1593.github.io/play/?id=724", img: "https://th.bing.com/th/id/OIP.2nNfz9ME7wvmzYai0z7Z6gAAAA?rs=1&pid=ImgDetMain" },    
+            { nome: "Rogue souls 2", url:"https://jman1593.github.io/play/?id=723", img: "https://th.bing.com/th/id/OIP.X2-iRAQU1VJVElyHypWt5AHaD0?r=0&cb=thvnextc1&rs=1&pid=ImgDetMain" },    
             { nome: "Swords and souls", url: "https://jman1593.github.io/play/?id=338", img: "https://vignette.wikia.nocookie.net/liberproeliis/images/2/2c/Soul_(Swords_and_Souls).jpg/revision/latest?cb=20161230204611&path-prefix=pt-br" }, 
             { nome: "City Guesser", url: "https://virtualvacation.us/guess", img: "https://thumbs.dreamstime.com/b/globe-m%C3%A9tallique-bleu-de-la-terre-51946285.jpg" },
             { nome: "Quick, Draw !", url: "https://quickdraw.withgoogle.com/", img: "https://th.bing.com/th/id/OIP.lDUuSOrwMFRG_ixFHZAgzwAAAA?r=0&rs=1&pid=ImgDetMain" },
             { nome: "Jacksmith", url: "https://jman1593.github.io/play/?id=607#google_vignette", img: "https://th.bing.com/th/id/R.0f63c54fad7a67a53437d8bc5368032a?rik=dR7hmx6%2bmFCQRA&pid=ImgRaw&r=0" },    
             { nome: "Townscaper", url: "https://oskarstalberg.com/Townscaper/", img: "https://th.bing.com/th/id/OIP.5YHcgLeSYFN_VX7iaWvYMQHaJ3?r=0&o=7rm=3&rs=1&pid=ImgDetMain" },    
+            { nome: "Fireboy and Watergirl 1", url: "https://jman1593.github.io/play/?id=589", img: "https://th.bing.com/th/id/OIP.3kKbV4Bx1NfsS0pPFdN13wHaE8?r=0&cb=thvnextc1&rs=1&pid=ImgDetMain" },
+            { nome: "Fireboy and Watergirl 2", url: "https://jman1593.github.io/play/?id=590", img: "https://i.ytimg.com/vi/WETA0g1hfiw/maxresdefault.jpg" },
+            { nome: "Fireboy and Watergirl 3", url: "https://jman1593.github.io/play/?id=591", img: "https://i.ytimg.com/vi/Bp24rTy3m2Q/hqdefault.jpg" },
+            { nome: "Fireboy and Watergirl 4", url: "https://jman1593.github.io/play/?id=592", img: "https://th.bing.com/th/id/OIP.VnmYjzLic_Y0ZxqgHUtMKQHaE8?r=0&cb=thvnextc1&rs=1&pid=ImgDetMain" },
+            { nome: "Fireboy and Watergirl 5", url: "https://jman1593.github.io/play/?id=593", img: "https://th.bing.com/th/id/R.bf00532d6fa61120c89d933cc7f9dfcf?rik=qXuM6uTzcLleLA&pid=ImgRaw&r=0" },
+            { nome: "Fireboy and Watergirl 6", url: "https://jman1593.github.io/play/?id=594", img: "https://i.ytimg.com/vi/_5pu6CRCM4Y/maxresdefault.jpg" },
+            { nome: "", url: "", img: "" },
+                
     
         ]
         
