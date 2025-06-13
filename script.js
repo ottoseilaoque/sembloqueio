@@ -39,7 +39,8 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Rogue souls", url:"https://jman1593.github.io/play/?id=723", img: "https://th.bing.com/th/id/OIP.2nNfz9ME7wvmzYai0z7Z6gAAAA?rs=1&pid=ImgDetMain" },    
             { nome: "Swords and souls", url: "https://jman1593.github.io/play/?id=338", img: "https://vignette.wikia.nocookie.net/liberproeliis/images/2/2c/Soul_(Swords_and_Souls).jpg/revision/latest?cb=20161230204611&path-prefix=pt-br" }, 
             { nome: "City Guesser", url: "https://virtualvacation.us/guess", img: "https://thumbs.dreamstime.com/b/globe-m%C3%A9tallique-bleu-de-la-terre-51946285.jpg" },
-            { nome: "Quick, Draw !", url: "https://quickdraw.withgoogle.com/", img: "https://th.bing.com/th/id/OIP.lDUuSOrwMFRG_ixFHZAgzwAAAA?r=0&rs=1&pid=ImgDetMain" }, 
+            { nome: "Quick, Draw !", url: "https://quickdraw.withgoogle.com/", img: "https://th.bing.com/th/id/OIP.lDUuSOrwMFRG_ixFHZAgzwAAAA?r=0&rs=1&pid=ImgDetMain" },
+            { nome: "Jacksmith", url: "https://jman1593.github.io/play/?id=607#google_vignette", img: "https://th.bing.com/th/id/R.0f63c54fad7a67a53437d8bc5368032a?rik=dR7hmx6%2bmFCQRA&pid=ImgRaw&r=0" },    
             { nome: "Townscaper", url: "https://oskarstalberg.com/Townscaper/", img: "https://th.bing.com/th/id/OIP.5YHcgLeSYFN_VX7iaWvYMQHaJ3?r=0&o=7rm=3&rs=1&pid=ImgDetMain" },    
     
         ]
