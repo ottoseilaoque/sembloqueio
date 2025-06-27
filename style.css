@@ -7,6 +7,7 @@
 
 body {
     margin-top: 50px;
+    width: 100%;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -69,6 +70,36 @@ a {
 a:hover {
     background-color: #0056b3;
 }
+
+.pesquisa{
+    width: 50%;
+    height: 3rem;
+    position: relative;
+}
+
+.pesquisa input{
+    width: 100%;
+    height: 100%;
+    padding-left: 0.8rem;
+    border-radius: 0.4rem;
+    border: 1px solid #333;
+}
+
+.absolute-trash{
+    position: absolute;
+    right: 3rem;
+    transform: translateY(-50%);
+    top: 50%;
+
+}
+.absolute-search{
+    position: absolute;
+    right: 1rem;
+    transform: translateY(-50%);
+    top: 50%;
+
+}
+
 
 @media (max-width: 768px) {
     #box{
