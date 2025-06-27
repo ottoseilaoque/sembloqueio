@@ -1,3 +1,9 @@
+document.addEventListener("keydown", (event) => {
+    if (event.key === 'Enter') {
+        pesquisarValor()
+    }
+});
+
 const idJogos = document.querySelector("#jogos")
         const informacoesJogos = [
             { nome: "Str0ngDogXP", url: "https://jman1593.github.io/index.html", img: "https://th.bing.com/th/id/OIP.imiD_hFMk8JsYKd-L1cRkAHaHa?r=0&cb=thvnextc1&rs=1&pid=ImgDetMain" },
@@ -60,8 +66,69 @@ const idJogos = document.querySelector("#jogos")
                 
     
         ]
+    arrayFinal = informacoesJogos
+        resetarValores()
+        mostrarValores()
+
+        const inputPesquisar = document.querySelector("#input-pesquisar")
+
+        const btnSearch = document.querySelector("#btn-search")
+
+        function pesquisarValor() {
+            let inputPesquisarValue = inputPesquisar.value
+
+            if (event.type === "keydown" && event.key !== "Enter") {
+                return;
+            }
+            
+            // console.log(!inputPesquisarValue)
+            if(inputPesquisarValue){
+                let arrayPesquisados = []
+                let pesquisarLimpo = inputPesquisarValue.toLowerCase().trim();
+                informacoesJogos.forEach((item) =>{
+                    if(item.nome.toLowerCase().trim().includes(pesquisarLimpo)){
+                        arrayPesquisados.push(item)
+                        // console.log(arrayPesquisados)
+                    }
+                })
+                arrayFinal = arrayPesquisados
+                resetarValores()
+                mostrarValores()
+
+            } else {
+                resetarValores()
+                arrayFinal = informacoesJogos
+                mostrarValores()
+
+            }
+        }
+
         
-        informacoesJogos.forEach(item => {
+        btnSearch.addEventListener("click", pesquisarValor);
+
+        
+
+        const btnTrash = document.querySelector("#btn-trash")
+        
+
+        btnTrash.addEventListener("click", botaoLimpar)
+
+        function botaoLimpar(){
+            
+            let inputPesquisarValue = inputPesquisar.value
+
+            if(inputPesquisarValue){
+                inputPesquisar.value = ""
+                resetarValores()
+                arrayFinal = informacoesJogos
+                mostrarValores()
+            }
+        }
+
+
+        function mostrarValores(){
+            
+            arrayFinal.forEach(item => {
                 idJogos.innerHTML += 
                 `<div id="box">
                     <img class="imagem" src="${item.img}">
@@ -69,3 +136,7 @@ const idJogos = document.querySelector("#jogos")
                     <a target="_blank" href="${item.url}">Acessar</a>
                 </div>`
         });
+        }
+        function resetarValores(){
+            idJogos.innerHTML = ""
+        }
