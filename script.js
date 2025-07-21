@@ -64,6 +64,9 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Fireboy and Watergirl 5", url: "https://jman1593.github.io/play/?id=593", img: "https://th.bing.com/th/id/R.bf00532d6fa61120c89d933cc7f9dfcf?rik=qXuM6uTzcLleLA&pid=ImgRaw&r=0" },
             { nome: "Fireboy and Watergirl 6", url: "https://jman1593.github.io/play/?id=594", img: "https://i.ytimg.com/vi/_5pu6CRCM4Y/maxresdefault.jpg" },
             { nome: "The Useless Web", url: "https://theuselessweb.com/", img: "https://media.designrush.com/tinymce_images/695800/conversions/The-Useless-Web-content.jpg" },
+            { nome: "Sporkle", url: "https://www.sporcle.com/", img: "https://th.bing.com/th/id/R.8830c91686f9eb4c878d365b40266ebc?rik=cApUE6VXsakQdA&riu=http%3a%2f%2fwww.sporcle.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f3.png&ehk=5CkIru%2fVniO0S2T21n7uKyk8C5iag2mEJ7ZsDGZfR2E%3d&risl=&pid=ImgRaw&r=0" },
+            { nome: "Suika Game", url: "https://playsuikagame.com/", img: "https://tse1.mm.bing.net/th/id/OIP.BgZ43--_afl5k3fXbDWEiwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
+            
                 
     
         ]
