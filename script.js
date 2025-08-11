@@ -69,6 +69,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Sporkle", url: "https://www.sporcle.com/", img: "https://th.bing.com/th/id/R.8830c91686f9eb4c878d365b40266ebc?rik=cApUE6VXsakQdA&riu=http%3a%2f%2fwww.sporcle.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f3.png&ehk=5CkIru%2fVniO0S2T21n7uKyk8C5iag2mEJ7ZsDGZfR2E%3d&risl=&pid=ImgRaw&r=0" },
             { nome: "Suika Game", url: "https://playsuikagame.com/", img: "https://tse1.mm.bing.net/th/id/OIP.BgZ43--_afl5k3fXbDWEiwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Connect 4", url: "https://www.cbc.ca/kids/games/all/connect-4", img: "https://img.itch.zone/aW1nLzEzNDQxODk4LnBuZw==/original/XgK63d.png" },
+            { nome: "Wplace", url: "https://wplace.live/", img: "https://tse4.mm.bing.net/th/id/OIP.on3ITfOCU4hndpq0PgBMKgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
             
                 
     
