@@ -70,8 +70,8 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Suika Game", url: "https://playsuikagame.com/", img: "https://tse1.mm.bing.net/th/id/OIP.BgZ43--_afl5k3fXbDWEiwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Connect 4", url: "https://www.cbc.ca/kids/games/all/connect-4", img: "https://img.itch.zone/aW1nLzEzNDQxODk4LnBuZw==/original/XgK63d.png" },
             { nome: "Wplace", url: "https://wplace.live/", img: "https://tse4.mm.bing.net/th/id/OIP.on3ITfOCU4hndpq0PgBMKgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
-            
-                
+            { nome: "Lost Gamer.io", url: "https://lostgamer.io/", img: "https://i.ytimg.com/vi/SafJqt4uvSg/hqdefault.jpg" },
+            { nome: "JKLM.fun", url: "https://jklm.fun/", img: "https://jklm.fun/images/icon512.png" },
     
         ]
     arrayFinal = informacoesJogos
