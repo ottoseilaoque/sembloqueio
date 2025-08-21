@@ -14,6 +14,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Contexto", url: "https://contexto.me/pt/", img: "https://th.bing.com/th/id/OIP.Mix_Dl5XQQzI_h8NOBb0DgHaD4?cb=iwc1&rs=1&pid=ImgDetMain" },
             { nome: "Conexo", url: "https://conexo.ws/pt/", img: "https://th.bing.com/th/id/OIP.wdpL07KYYRzUFSWmkm6dygHaE8?r=0&rs=1&pid=ImgDetMain" },
             { nome: "termo", url: "https://termo.pt/", img: "https://play-lh.googleusercontent.com/HMqznNZmnuR2wmipfZUaPcqrZnkWT9xOoV7QepkuMM5F7NiMviYzqmC-IWlzwFbUew" },
+            { nome: "Clashdle", url: "https://clashdle.com/", img: "https://tse2.mm.bing.net/th/id/OIP.d682TRpurvbhjEwraoKPTwHaD5?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Narutodle", url: "https://narutodle.net/", img: "https://cdn.amkstation.com/wp-content/uploads/2024/09/narutodle-answers-today-1-640x375.webp" },
             { nome: "Pokedle", url: "https://pokedle.net/", img: "https://pokedle-images.fra1.cdn.digitaloceanspaces.com/Other/pokedle-logo-pokemons.webp" },
             { nome: "One piecle", url: "https://onepiecedle.net/", img: "https://th.bing.com/th/id/OIP.MpuBZ13x2biBbFLLIIKCsQHaD8?r=0&rs=1&pid=ImgDetMain" },
