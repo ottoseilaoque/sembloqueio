@@ -7,7 +7,7 @@ document.addEventListener("keydown", (event) => {
 const idJogos = document.querySelector("#jogos")
         const informacoesJogos = [
             { nome: "Str0ngDogXP", url: "https://jman1593.github.io/index.html", img: "https://th.bing.com/th/id/OIP.imiD_hFMk8JsYKd-L1cRkAHaHa?r=0&cb=thvnextc1&rs=1&pid=ImgDetMain" },
-            { nome: "Google doole games", url: "https://googledoodle-games.com/br/all/", img: "https://pngimg.com/uploads/google/google_PNG19630.png" },
+            { nome: "Google doodle games", url: "https://googledoodle-games.com/br/all/", img: "https://pngimg.com/uploads/google/google_PNG19630.png" },
             { nome: "Conexo", url: "https://conexo.ws/pt/", img: "https://th.bing.com/th/id/OIP.wdpL07KYYRzUFSWmkm6dygHaE8?r=0&rs=1&pid=ImgDetMain" },
             { nome: "termo", url: "https://termo.pt/", img: "https://play-lh.googleusercontent.com/HMqznNZmnuR2wmipfZUaPcqrZnkWT9xOoV7QepkuMM5F7NiMviYzqmC-IWlzwFbUew" },
             { nome: "Clashdle", url: "https://clashdle.com/", img: "https://tse2.mm.bing.net/th/id/OIP.d682TRpurvbhjEwraoKPTwHaD5?rs=1&pid=ImgDetMain&o=7&rm=3" },
