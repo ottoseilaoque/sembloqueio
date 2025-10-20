@@ -40,6 +40,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Mope.io", url: "https://mope.io/", img: "https://th.bing.com/th/id/OIP.4IWzgpNLsmea_UdVCeSODQAAAA?rs=1&pid=ImgDetMain" },    
             { nome: "Limax.io", url: "https://limax.io/", img: "https://th.bing.com/th/id/OIP.ibIkHpjhJHOn_tdTERNPRAHaFj?rs=1&pid=ImgDetMain" },    
             { nome: "Kart bros.io", url: "https://kartbros.io/", img: "https://tinyplay.io/data/image/kart-bros-tinyplay.png" },
+            { nome: "Survev.io", url: "https://survev.io/", img: "https://tse3.mm.bing.net/th/id/OIP.4_KgqPKjdXZtVpwbwRhlpwHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Friday Night Funkin", url: "https://sites.google.com/site/fnfunblocked/games", img: "https://1000logos.net/wp-content/uploads/2021/11/Friday-Night-Funkin-Logo.png" },    
             { nome: "Tetris", url: "https://unblockeds-games.github.io/tetris/", img: "https://vectorseek.com/wp-content/uploads/2023/10/tetris-Logo-Vector.svg-.png" },    
             { nome: "City Guesser", url: "https://virtualvacation.us/guess", img: "https://thumbs.dreamstime.com/b/globe-m%C3%A9tallique-bleu-de-la-terre-51946285.jpg" },
