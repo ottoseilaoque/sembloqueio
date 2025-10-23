@@ -60,6 +60,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Club penguin Jorney", url: "https://play.cpjourney.net/", img: "https://th.bing.com/th/id/R.809f518a153ec21e3e8fbef995b69533?rik=Jmpp%2fqnLfR0IfQ&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20100825210835%2flogopedia%2fimages%2ff%2ff4%2fClub_Penguin_logo.png&ehk=2V6nIbNTGj86diof1RXWI%2fEa1i6oJ3KMcm1GdGUVGzU%3d&risl=&pid=ImgRaw&r=0" },
             { nome: "O que você prefere", url: "https://wouldyourather.app/pt/s/o7fas", img: "https://cdn-images.360jogos.com/assets/game-img/43000/43184.webp" },
             { nome: "Lostgamer.io", url: "https://lostgamer.io/", img: "https://browsercraft.com/images/games/covers/lostgamer-dot-io.jpg" },
+            { nome: "Little Alchemy", url: "https://littlealchemy.com/", img: "https://littlealchemy.com/img/loading-screen-logo.png" },
     
         ]
     arrayFinal = informacoesJogos
