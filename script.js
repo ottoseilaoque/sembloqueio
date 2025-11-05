@@ -19,7 +19,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Pokedle", url: "https://pokedle.net/", img: "https://pokedle-images.fra1.cdn.digitaloceanspaces.com/Other/pokedle-logo-pokemons.webp" },
             { nome: "One piecle", url: "https://onepiecedle.net/", img: "https://th.bing.com/th/id/OIP.MpuBZ13x2biBbFLLIIKCsQHaD8?r=0&rs=1&pid=ImgDetMain" },
             { nome: "Minecraftdle", url: "https://www.minecraftdle.net/", img: "https://www.enkisa.com/wp-content/uploads/2014/08/minecraft.jpg" },    
-            { nome: "Run 3", url: "https://player03.com/run/3/beta", img: "https://player03.com/run/3/beta/favicon.png" },
+            { nome: "Run 3", url: "https://run3.io/", img: "https://player03.com/run/3/beta/favicon.png" },
             { nome: "Papers Please", url: "https://flashmuseum.org/papers-please/", img: "https://th.bing.com/th/id/OIP.nllosbs0TxWKTDEvQpbCRgHaHa?cb=iwc1&rs=1&pid=ImgDetMain" },
             { nome: "Xadrez", url: "https://www.mathsisfun.com/games/chess.html", img: "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpRCNUAz.png" },
             { nome: "Crossy Road", url: "https://www.vortice.app/play/crossy/", img: "https://assets-prd.ignimgs.com/2023/03/04/crossyroad-1677896516603.jpg" },
