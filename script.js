@@ -39,6 +39,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Fnaf", url: "https://fngames.io/fnaf", img: "https://th.bing.com/th/id/OIP.XW_OsPwLtSFaQrOSHEr5eAHaHa?rs=1&pid=ImgDetMain" },    
             { nome: "Bad Time Simulator", url: "https://jcw87.github.io/c2-sans-fight/", img: "https://th.bing.com/th/id/OIP.t4mHEPOasYEW074cd0i1nQHaHa?w=170&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" },    
             { nome: "Zorb.io", url: "https://zorb.io/", img: "https://th.bing.com/th/id/OIP.SVSnnjMGnzrWRVOJk0o91wHaEK?rs=1&pid=ImgDetMain" },    
+            { nome: "Powerline.io", url: "https://powerline.io/", img: "https://tse3.mm.bing.net/th/id/OIP.ufEcTveQ-27i1jyEXrzkggAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },    
             { nome: "Mope.io", url: "https://mope.io/", img: "https://th.bing.com/th/id/OIP.4IWzgpNLsmea_UdVCeSODQAAAA?rs=1&pid=ImgDetMain" },    
             { nome: "Limax.io", url: "https://limax.io/", img: "https://th.bing.com/th/id/OIP.ibIkHpjhJHOn_tdTERNPRAHaFj?rs=1&pid=ImgDetMain" },    
             { nome: "Kart bros.io", url: "https://kartbros.io/", img: "https://tinyplay.io/data/image/kart-bros-tinyplay.png" },
@@ -63,6 +64,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "O que você prefere", url: "https://wouldyourather.app/pt/s/o7fas", img: "https://cdn-images.360jogos.com/assets/game-img/43000/43184.webp" },
             { nome: "Lostgamer.io", url: "https://lostgamer.io/", img: "https://browsercraft.com/images/games/covers/lostgamer-dot-io.jpg" },
             { nome: "Little Alchemy", url: "https://littlealchemy.com/", img: "https://littlealchemy.com/img/loading-screen-logo.png" },
+            { nome: "Browser Quest", url: "https://hiporepo.github.io/BrowserQuest/", img: "https://techcrunch.com/wp-content/uploads/2012/03/browserquest.jpeg" },
     
         ]
     arrayFinal = informacoesJogos
