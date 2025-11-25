@@ -64,7 +64,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "O que você prefere", url: "https://wouldyourather.app/pt/s/o7fas", img: "https://cdn-images.360jogos.com/assets/game-img/43000/43184.webp" },
             { nome: "Lostgamer.io", url: "https://lostgamer.io/", img: "https://browsercraft.com/images/games/covers/lostgamer-dot-io.jpg" },
             { nome: "Little Alchemy", url: "https://littlealchemy.com/", img: "https://littlealchemy.com/img/loading-screen-logo.png" },
-            { nome: "Browser Quest", url: "https://hiporepo.github.io/BrowserQuest/", img: "https://techcrunch.com/wp-content/uploads/2012/03/browserquest.jpeg" },
+            
     
         ]
     arrayFinal = informacoesJogos
