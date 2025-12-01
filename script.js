@@ -12,6 +12,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Cool Unblocked Games", url: "https://coolubg.github.io/", img: "https://coolubg.github.io/favicon.ico" },
             { nome: "Az Games", url: "https://azgames.io/", img: "https://img.sur.ly/favicons/a/azgames.io.ico" },
             { nome: "Jogos Friv", url: "https://jogosfriv.com.br/", img: "https://jogosfriv.com.br/favicon.png" },
+            { nome: "Friv2Online", url: "https://www.friv2online.com/pt", img: "https://www.friv2online.com/favicon.png" },
             { nome: "Google Feud", url: "https://googlefeud.com/", img: "https://i.ytimg.com/vi/xC-oO1mJUGY/maxresdefault.jpg" },
             { nome: "Conexo", url: "https://conexo.ws/pt/", img: "https://th.bing.com/th/id/OIP.wdpL07KYYRzUFSWmkm6dygHaE8?r=0&rs=1&pid=ImgDetMain" },
             { nome: "termo", url: "https://termo.pt/", img: "https://play-lh.googleusercontent.com/HMqznNZmnuR2wmipfZUaPcqrZnkWT9xOoV7QepkuMM5F7NiMviYzqmC-IWlzwFbUew" },
