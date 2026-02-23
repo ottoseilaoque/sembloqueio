@@ -67,7 +67,16 @@ const idJogos = document.querySelector("#jogos")
             { nome: "O que você prefere", url: "https://wouldyourather.app/pt/s/o7fas", img: "https://cdn-images.360jogos.com/assets/game-img/43000/43184.webp" },
             { nome: "Lostgamer.io", url: "https://lostgamer.io/", img: "https://browsercraft.com/images/games/covers/lostgamer-dot-io.jpg" },
             { nome: "Little Alchemy", url: "https://littlealchemy.com/", img: "https://littlealchemy.com/img/loading-screen-logo.png" },
-            
+            { nome: "Pokeclicker", url: "https://www.pokeclicker.com/", img: "https://www.pokeclicker.com/assets/images/pokeclickerlogo.png" },
+            { nome: "MINIGOLFLE", url: "https://minigolfle.com/", img: "https://minigolfle.com/m.svg" },
+            { nome: "Jogos Online Grátis", url: "https://jogosnainternet.com.br/", img: "https://jogosnainternet.com.br/static/img/favicon.ico" },
+            { nome: "Brawldle", url: "https://brawdle.org/", img: "https://tse2.mm.bing.net/th/id/OIP.NipQRyLklLWikwofJwGOCgHaF8?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "PokeDoku", url: "https://pokedoku.com/", img: "https://pokedoku.com/opengraph-image.png?109d0a8212e5685b" },
+            { nome: "Messenger", url: "https://messenger.abeto.co/", img: "https://messenger.abeto.co/assets/favicon32-BC0QIL61.png" },
+            { nome: "Play Retro video", url: "https://rec0ded88.com/", img: "https://us-prod.asyncgw.teams.microsoft.com/v1/d7ffd5b6-3dec-4d8b-8faf-cb7a6d7e3435/objects/0-eus-d14-0a1d75df8833eed6e0472eab6eb4aaa2/views/imgpsh_fullsize" },
+            { nome: "Slope Game", url: "https://slopeio.org/", img: "https://tse4.mm.bing.net/th/id/OIP.qTt8RTAIKmewE3x2mZStVQHaEO?rs=1&pid=ImgDetMain&o=7&rm=3" },
+
+ 
     
         ]
     arrayFinal = informacoesJogos
