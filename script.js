@@ -77,6 +77,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Slope Game", url: "https://slopeio.org/", img: "https://tse4.mm.bing.net/th/id/OIP.qTt8RTAIKmewE3x2mZStVQHaEO?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Dino Swords", url: "https://dinoswords.gg/", img: "https://tse2.mm.bing.net/th/id/OIP.Y19COWCnImxkPjGmK3iRVAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "No Clip", url: "https://noclip.website/", img: "https://noclip.website/static/image/logo.3e3276e8.png" },
+            { nome: "Room 796", url: "https://floor796.com/", img: "https://tecnobits.com/wp-content/uploads/2025/05/Floor796-1024x700.png" },
 
  
     
