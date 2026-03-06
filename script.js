@@ -78,6 +78,10 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Dino Swords", url: "https://dinoswords.gg/", img: "https://tse2.mm.bing.net/th/id/OIP.Y19COWCnImxkPjGmK3iRVAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "No Clip", url: "https://noclip.website/", img: "https://noclip.website/static/image/logo.3e3276e8.png" },
             { nome: "Room 796", url: "https://floor796.com/", img: "https://tecnobits.com/wp-content/uploads/2025/05/Floor796-1024x700.png" },
+            { nome: "Draw a stickman", url: "https://drawastickman.com/", img: "https://p7.hiclipart.com/preview/218/926/400/stick-man-stick-figure-clip-art-happy-stick-man.jpg" },
+            { nome: "HammyHome", url: "https://hammyhome.com/", img: "https://tse4.mm.bing.net/th/id/OIP.r8bSYTMs1JNUoQHZpA0utwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Arcade Space", url: "https://www.arcadespace.org/", img: "https://www.arcadespace.org/favicon.ico" },
+            
 
  
     
