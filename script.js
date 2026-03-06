@@ -81,6 +81,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Draw a stickman", url: "https://drawastickman.com/", img: "https://p7.hiclipart.com/preview/218/926/400/stick-man-stick-figure-clip-art-happy-stick-man.jpg" },
             { nome: "HammyHome", url: "https://hammyhome.com/", img: "https://tse4.mm.bing.net/th/id/OIP.r8bSYTMs1JNUoQHZpA0utwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Arcade Space", url: "https://www.arcadespace.org/", img: "https://www.arcadespace.org/favicon.ico" },
+            { nome: "Epstein Clicker", url: "https://epsteinclicker.org/", img: "https://th.bing.com/th?id=OIF.ryLFWjl1wQ2DU%2fzVSBKayQ&rs=1&pid=ImgDetMain&o=7&rm=3" },
             
 
  
