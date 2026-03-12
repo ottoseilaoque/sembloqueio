@@ -73,7 +73,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Brawldle", url: "https://brawdle.org/", img: "https://tse2.mm.bing.net/th/id/OIP.NipQRyLklLWikwofJwGOCgHaF8?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "PokeDoku", url: "https://pokedoku.com/", img: "https://pokedoku.com/opengraph-image.png?109d0a8212e5685b" },
             { nome: "Messenger", url: "https://messenger.abeto.co/", img: "https://messenger.abeto.co/assets/favicon32-BC0QIL61.png" },
-            { nome: "Play Retro video", url: "https://rec0ded88.com/", img: "https://us-prod.asyncgw.teams.microsoft.com/v1/d7ffd5b6-3dec-4d8b-8faf-cb7a6d7e3435/objects/0-eus-d14-0a1d75df8833eed6e0472eab6eb4aaa2/views/imgpsh_fullsize" },
+            { nome: "Play Retro video", url: "https://rec0ded88.com/play-retro-video-games/", img: "https://us-prod.asyncgw.teams.microsoft.com/v1/d7ffd5b6-3dec-4d8b-8faf-cb7a6d7e3435/objects/0-eus-d14-0a1d75df8833eed6e0472eab6eb4aaa2/views/imgpsh_fullsize" },
             { nome: "Slope Game", url: "https://slopeio.org/", img: "https://tse4.mm.bing.net/th/id/OIP.qTt8RTAIKmewE3x2mZStVQHaEO?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Dino Swords", url: "https://dinoswords.gg/", img: "https://tse2.mm.bing.net/th/id/OIP.Y19COWCnImxkPjGmK3iRVAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "No Clip", url: "https://noclip.website/", img: "https://noclip.website/static/image/logo.3e3276e8.png" },
