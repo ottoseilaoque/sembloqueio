@@ -82,7 +82,8 @@ const idJogos = document.querySelector("#jogos")
             { nome: "HammyHome", url: "https://hammyhome.com/", img: "https://tse4.mm.bing.net/th/id/OIP.r8bSYTMs1JNUoQHZpA0utwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Arcade Space", url: "https://www.arcadespace.org/", img: "https://www.arcadespace.org/favicon.ico" },
             { nome: "Epstein Clicker", url: "https://epsteinclicker.org/", img: "https://th.bing.com/th?id=OIF.ryLFWjl1wQ2DU%2fzVSBKayQ&rs=1&pid=ImgDetMain&o=7&rm=3" },
-            
+            { nome: "Wikipedia Gacha", url: "https://wikigacha.com/", img: "https://pngimg.com/uploads/wikipedia/wikipedia_PNG4.png" },
+            { nome: "FreezeNova", url: "https://freezenova.com/", img: "https://freezenova.com/imgs/fn/freezenova.ico" },
 
  
     
