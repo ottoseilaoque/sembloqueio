@@ -83,7 +83,9 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Arcade Space", url: "https://www.arcadespace.org/", img: "https://www.arcadespace.org/favicon.ico" },
             { nome: "Epstein Clicker", url: "https://epsteinclicker.org/", img: "https://th.bing.com/th?id=OIF.ryLFWjl1wQ2DU%2fzVSBKayQ&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Wikipedia Gacha", url: "https://wikigacha.com/", img: "https://pngimg.com/uploads/wikipedia/wikipedia_PNG4.png" },
-            { nome: "FreezeNova", url: "https://freezenova.com/", img: "https://freezenova.com/imgs/fn/freezenova.ico" },
+            { nome: "FreezeNova", url: "https://freezenova.com/", img: "https://i.ytimg.com/vi/KhjPzdSSuSo/sddefault.jpg" },
+            { nome: "Flash Museum", url: "https://flashmuseum.org/", img: "https://flashmuseum.org/wp-content/uploads/2024/10/flashmuseum_fav_p-150x150.png" },
+            { nome: "Myemulator.onl", url: "https://myemulator.onl/#google_vignette", img: "https://myemulatoronline.net/wp-content/uploads/2025/03/myemulatoronline.net-logo.webp" },
 
  
     
