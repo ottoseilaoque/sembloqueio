@@ -21,7 +21,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Narutodle", url: "https://narutodle.net/", img: "https://cdn.amkstation.com/wp-content/uploads/2024/09/narutodle-answers-today-1-640x375.webp" },
             { nome: "Pokedle", url: "https://pokedle.net/", img: "https://pokedle-images.fra1.cdn.digitaloceanspaces.com/Other/pokedle-logo-pokemons.webp" },
             { nome: "One piecle", url: "https://onepiecedle.net/", img: "https://th.bing.com/th/id/OIP.MpuBZ13x2biBbFLLIIKCsQHaD8?r=0&rs=1&pid=ImgDetMain" },
-            { nome: "Loldle", url: "https://loldle.net/", img: "https://staticc.sportskeeda.com/editor/2023/02/39e14-16774116868989-1920.jpg" },
+            { nome: "Lol dle", url: "https://loldle.net/", img: "https://staticc.sportskeeda.com/editor/2023/02/39e14-16774116868989-1920.jpg" },
             { nome: "Dotadle", url: "https://dotadle.net/", img: "https://dotadle.net/img/Logo.5b0230f6.png" },
             { nome: "Smashdle", url: "https://smashdle.net/", img: "https://smashdle.net/img/Logo.d1a12095.png" },
             { nome: "Minecraftdle", url: "https://www.minecraftdle.net/", img: "https://www.enkisa.com/wp-content/uploads/2014/08/minecraft.jpg" },    
