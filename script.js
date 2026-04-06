@@ -21,6 +21,9 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Narutodle", url: "https://narutodle.net/", img: "https://cdn.amkstation.com/wp-content/uploads/2024/09/narutodle-answers-today-1-640x375.webp" },
             { nome: "Pokedle", url: "https://pokedle.net/", img: "https://pokedle-images.fra1.cdn.digitaloceanspaces.com/Other/pokedle-logo-pokemons.webp" },
             { nome: "One piecle", url: "https://onepiecedle.net/", img: "https://th.bing.com/th/id/OIP.MpuBZ13x2biBbFLLIIKCsQHaD8?r=0&rs=1&pid=ImgDetMain" },
+            { nome: "Loldle", url: "https://loldle.net/", img: "https://staticc.sportskeeda.com/editor/2023/02/39e14-16774116868989-1920.jpg" },
+            { nome: "Dotadle", url: "https://dotadle.net/", img: "https://dotadle.net/img/Logo.5b0230f6.png" },
+            { nome: "Smashdle", url: "https://smashdle.net/", img: "https://smashdle.net/img/Logo.d1a12095.png" },
             { nome: "Minecraftdle", url: "https://www.minecraftdle.net/", img: "https://www.enkisa.com/wp-content/uploads/2014/08/minecraft.jpg" },    
             { nome: "Run 3", url: "https://run3.io/", img: "https://player03.com/run/3/beta/favicon.png" },
             { nome: "Papers Please", url: "https://flashmuseum.org/papers-please/", img: "https://th.bing.com/th/id/OIP.nllosbs0TxWKTDEvQpbCRgHaHa?cb=iwc1&rs=1&pid=ImgDetMain" },
@@ -93,6 +96,13 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Bleachdle", url: "https://bleachle.com/", img: "https://th.bing.com/th/id/R.3378fb8cc9b6bc128a9a7b86b8e4d2a4?rik=J8xMmuxjGP%2fbDg&pid=ImgRaw&r=0" },
             { nome: "Jujutsudle", url: "https://jujutkdle.org/", img: "https://logos-world.net/wp-content/uploads/2024/08/Jujutsu-Kaisen-Logo.png" },
             { nome: "Steamdle", url: "https://royadle.org/steamdle", img: "https://logos-world.net/wp-content/uploads/2020/10/Steam-Logo-2014-present.jpg" },
+            { nome: "Batter Up!", url: "https://www.batter-up.app/jumpshot/", img: "https://www.batter-up.app/assets/batterup-logo-HHDAW7Qi.png" },
+            { nome: "Kimetsudle", url: "https://royadle.org/kimetsu", img: "https://tse1.mm.bing.net/th/id/OIP.8BKV6a9a1FCYx8g1VOCfIwHaHB?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Narutodle(outra versão)", url: "https://royadle.org/narutodle", img: "https://tse3.mm.bing.net/th/id/OIP.fRy4blOOA9DSTCHAdFfOoQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Genshindle", url: "https://royadle.org/genshin", img: "https://1000logos.net/wp-content/uploads/2021/08/Genshin-Impact-Logo.png" },
+            { nome: "Rule34dle(outra versão)", url: "https://rule34-dle.com/", img: "https://browsercraft.com/images/games/covers/rule34dle.jpg" },
+            { nome: "Ao3dle", url: "https://aothreedle.com/", img: "https://browsercraft.com/images/games/covers/ao3dle.jpg" },
+            { nome: "Loldle(outra versão)", url: "https://rule34-dle.com/loldle", img: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1a/98/3f1a98b7-e065-e028-43b1-a2f98d2c9994/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" },
 
  
     
