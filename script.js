@@ -86,6 +86,8 @@ const idJogos = document.querySelector("#jogos")
             { nome: "FreezeNova", url: "https://freezenova.com/", img: "https://i.ytimg.com/vi/KhjPzdSSuSo/sddefault.jpg" },
             { nome: "Flash Museum", url: "https://flashmuseum.org/", img: "https://flashmuseum.org/wp-content/uploads/2024/10/flashmuseum_fav_p-150x150.png" },
             { nome: "Myemulator.onl", url: "https://myemulator.onl/#google_vignette", img: "https://myemulatoronline.net/wp-content/uploads/2025/03/myemulatoronline.net-logo.webp" },
+            { nome: "Monkepo", url: "https://monkepo.online/", img: "https://monkepo.online/img/monkepo.png" },
+            { nome: "Rule34dle", url: "https://www.rule34dle.org/pt/game", img: "https://tse4.mm.bing.net/th/id/OIP.oOCYZlpMV2f2vG9VGQ8KSgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
 
  
     
