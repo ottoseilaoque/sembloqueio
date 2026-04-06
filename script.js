@@ -88,6 +88,11 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Myemulator.onl", url: "https://myemulator.onl/#google_vignette", img: "https://myemulatoronline.net/wp-content/uploads/2025/03/myemulatoronline.net-logo.webp" },
             { nome: "Monkepo", url: "https://monkepo.online/", img: "https://monkepo.online/img/monkepo.png" },
             { nome: "Rule34dle", url: "https://www.rule34dle.org/pt/game", img: "https://tse4.mm.bing.net/th/id/OIP.oOCYZlpMV2f2vG9VGQ8KSgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Traffic Rider", url: "https://traffic-rider.io/", img: "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI" },
+            { nome: "Simply up", url: "https://simplyup.io/", img: "https://tse1.mm.bing.net/th/id/OIP.c0mnMgWVC1lZ4g2-xI6B0QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Bleachdle", url: "https://bleachle.com/", img: "https://th.bing.com/th/id/R.3378fb8cc9b6bc128a9a7b86b8e4d2a4?rik=J8xMmuxjGP%2fbDg&pid=ImgRaw&r=0" },
+            { nome: "Jujutsudle", url: "https://jujutkdle.org/", img: "https://logos-world.net/wp-content/uploads/2024/08/Jujutsu-Kaisen-Logo.png" },
+            { nome: "Steamdle", url: "https://royadle.org/steamdle", img: "https://logos-world.net/wp-content/uploads/2020/10/Steam-Logo-2014-present.jpg" },
 
  
     
