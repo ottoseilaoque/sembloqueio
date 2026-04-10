@@ -103,6 +103,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Rule34dle(outra versão)", url: "https://rule34-dle.com/", img: "https://browsercraft.com/images/games/covers/rule34dle.jpg" },
             { nome: "Ao3dle", url: "https://aothreedle.com/", img: "https://browsercraft.com/images/games/covers/ao3dle.jpg" },
             { nome: "Loldle(outra versão)", url: "https://rule34-dle.com/loldle", img: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1a/98/3f1a98b7-e065-e028-43b1-a2f98d2c9994/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" },
+            { nome: "All Games", url: "https://nb-ga.github.io/games-site/index.html", img: "" },
 
  
     
