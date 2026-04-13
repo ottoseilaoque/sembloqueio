@@ -19,7 +19,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "termo", url: "https://termo.pt/", img: "https://play-lh.googleusercontent.com/HMqznNZmnuR2wmipfZUaPcqrZnkWT9xOoV7QepkuMM5F7NiMviYzqmC-IWlzwFbUew" },
             { nome: "Clashdle", url: "https://clashdle.com/", img: "https://tse2.mm.bing.net/th/id/OIP.d682TRpurvbhjEwraoKPTwHaD5?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Narutodle", url: "https://narutodle.net/", img: "https://cdn.amkstation.com/wp-content/uploads/2024/09/narutodle-answers-today-1-640x375.webp" },
-            { nome: "Pokedle", url: "https://pokedle.net/", img: "https://pokedle-images.fra1.cdn.digitaloceanspaces.com/Other/pokedle-logo-pokemons.webp" },
+            { nome: "Pokédle", url: "https://pokedle.net/", img: "https://pokedle-images.fra1.cdn.digitaloceanspaces.com/Other/pokedle-logo-pokemons.webp" },
             { nome: "One piecle", url: "https://onepiecedle.net/", img: "https://th.bing.com/th/id/OIP.MpuBZ13x2biBbFLLIIKCsQHaD8?r=0&rs=1&pid=ImgDetMain" },
             { nome: "Lol dle", url: "https://loldle.net/", img: "https://staticc.sportskeeda.com/editor/2023/02/39e14-16774116868989-1920.jpg" },
             { nome: "Dotadle", url: "https://dotadle.net/", img: "https://dotadle.net/img/Logo.5b0230f6.png" },
@@ -70,11 +70,11 @@ const idJogos = document.querySelector("#jogos")
             { nome: "O que você prefere", url: "https://wouldyourather.app/pt/s/o7fas", img: "https://cdn-images.360jogos.com/assets/game-img/43000/43184.webp" },
             { nome: "Lostgamer.io", url: "https://lostgamer.io/", img: "https://browsercraft.com/images/games/covers/lostgamer-dot-io.jpg" },
             { nome: "Little Alchemy", url: "https://littlealchemy.com/", img: "https://littlealchemy.com/img/loading-screen-logo.png" },
-            { nome: "Pokeclicker", url: "https://www.pokeclicker.com/", img: "https://www.pokeclicker.com/assets/images/pokeclickerlogo.png" },
+            { nome: "Pokéclicker", url: "https://www.pokeclicker.com/", img: "https://www.pokeclicker.com/assets/images/pokeclickerlogo.png" },
             { nome: "MINIGOLFLE", url: "https://minigolfle.com/", img: "https://minigolfle.com/m.svg" },
             { nome: "Jogos Online Grátis", url: "https://jogosnainternet.com.br/", img: "https://jogosnainternet.com.br/static/img/favicon.ico" },
             { nome: "Brawldle", url: "https://brawdle.org/", img: "https://tse2.mm.bing.net/th/id/OIP.NipQRyLklLWikwofJwGOCgHaF8?rs=1&pid=ImgDetMain&o=7&rm=3" },
-            { nome: "PokeDoku", url: "https://pokedoku.com/", img: "https://pokedoku.com/opengraph-image.png?109d0a8212e5685b" },
+            { nome: "PokéDoku", url: "https://pokedoku.com/", img: "https://pokedoku.com/opengraph-image.png?109d0a8212e5685b" },
             { nome: "Messenger", url: "https://messenger.abeto.co/", img: "https://messenger.abeto.co/assets/favicon32-BC0QIL61.png" },
             { nome: "Play Retro video", url: "https://rec0ded88.com/play-retro-video-games/", img: "https://us-prod.asyncgw.teams.microsoft.com/v1/d7ffd5b6-3dec-4d8b-8faf-cb7a6d7e3435/objects/0-eus-d14-0a1d75df8833eed6e0472eab6eb4aaa2/views/imgpsh_fullsize" },
             { nome: "Slope Game", url: "https://slopeio.org/", img: "https://tse4.mm.bing.net/th/id/OIP.qTt8RTAIKmewE3x2mZStVQHaEO?rs=1&pid=ImgDetMain&o=7&rm=3" },
@@ -105,6 +105,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Loldle(outra versão)", url: "https://rule34-dle.com/loldle", img: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1a/98/3f1a98b7-e065-e028-43b1-a2f98d2c9994/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" },
             { nome: "All Games", url: "https://nb-ga.github.io/games-site/index.html", img: "https://down-br.img.susercontent.com/file/br-11134207-23010-ij43bn4da9lv88" },
             { nome: "Peta Games", url: "https://www.peta.org/features/games/", img: "https://capitalresearch.org/app/uploads/PETA-Logo.png" },
+            { nome: "PokéRogue", url: "https://pokerogue.net/", img: "https://tse3.mm.bing.net/th/id/OIP.380E_8KJ-AjupKi7LV1EkwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" },
 
  
     
