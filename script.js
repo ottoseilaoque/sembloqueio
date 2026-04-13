@@ -6,7 +6,6 @@ document.addEventListener("keydown", (event) => {
 
 const idJogos = document.querySelector("#jogos")
         const informacoesJogos = [
-            { nome: "Str0ngDogXP", url: "https://jman1593.github.io/index.html", img: "https://th.bing.com/th/id/OIP.imiD_hFMk8JsYKd-L1cRkAHaHa?r=0&cb=thvnextc1&rs=1&pid=ImgDetMain" },
             { nome: "Art.fullsusmtb.org", url: "https://art.fullsusmtb.org/", img: "https://th.bing.com/th/id/OSAAS.11A6887B9338C167DDBDC26FB44C4C47?w=72&h=72&c=17&rs=1&o=6&cb=12&pid=TechQna" },
             { nome: "Google doodle games", url: "https://googledoodle-games.com/br/all/", img: "https://pngimg.com/uploads/google/google_PNG19630.png" },
             { nome: "Cool Unblocked Games", url: "https://coolubg.github.io/", img: "https://coolubg.github.io/favicon.ico" },
@@ -105,9 +104,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Loldle(outra versão)", url: "https://rule34-dle.com/loldle", img: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1a/98/3f1a98b7-e065-e028-43b1-a2f98d2c9994/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" },
             { nome: "All Games", url: "https://nb-ga.github.io/games-site/index.html", img: "https://down-br.img.susercontent.com/file/br-11134207-23010-ij43bn4da9lv88" },
             { nome: "Peta Games", url: "https://www.peta.org/features/games/", img: "https://capitalresearch.org/app/uploads/PETA-Logo.png" },
-            { nome: "PokéRogue", url: "https://pokerogue.net/", img: "https://tse3.mm.bing.net/th/id/OIP.380E_8KJ-AjupKi7LV1EkwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" },
-
- 
+           
     
         ]
     arrayFinal = informacoesJogos
