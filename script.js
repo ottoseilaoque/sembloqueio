@@ -105,6 +105,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "All Games", url: "https://nb-ga.github.io/games-site/index.html", img: "https://down-br.img.susercontent.com/file/br-11134207-23010-ij43bn4da9lv88" },
             { nome: "Peta Games", url: "https://www.peta.org/features/games/", img: "https://capitalresearch.org/app/uploads/PETA-Logo.png" },
             { nome: "PokéRogue", url: "https://pokerogue.net/", img: "https://tse1.mm.bing.net/th/id/OIP.0Q5ZMtc8uwIUJnqLdG1SugAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Pokémon Showdown", url: "https://play.pokemonshowdown.com/", img: "https://tse4.mm.bing.net/th/id/OIP.MnMqLHyKL8w56cdCzMigJgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
            
     
         ]
