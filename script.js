@@ -6,6 +6,7 @@ document.addEventListener("keydown", (event) => {
 
 const idJogos = document.querySelector("#jogos")
         const informacoesJogos = [
+            { nome: "StrongDogXP", url: "https://stroongdog.github.io/index.html", img: "https://mathcordxp.github.io/strongdog.webp" },
             { nome: "Art.fullsusmtb.org", url: "https://art.fullsusmtb.org/", img: "https://th.bing.com/th/id/OSAAS.11A6887B9338C167DDBDC26FB44C4C47?w=72&h=72&c=17&rs=1&o=6&cb=12&pid=TechQna" },
             { nome: "Google doodle games", url: "https://googledoodle-games.com/br/all/", img: "https://pngimg.com/uploads/google/google_PNG19630.png" },
             { nome: "Cool Unblocked Games", url: "https://coolubg.github.io/", img: "https://coolubg.github.io/favicon.ico" },
