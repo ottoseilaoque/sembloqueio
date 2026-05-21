@@ -112,6 +112,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Flappy Bird", url: "https://flappybird.guru/pt/index.html", img: "https://www.pngmart.com/files/12/Flappy-Bird-PNG-Image.png" },
             { nome: "Gênio Quiz", url: "https://www.genioquiz.com.br/genio-quiz-1/", img: "https://genioquiz.com.br/wp-content/uploads/2022/05/Logo-Genio-Quiz.png" },
             { nome: "Pokelike", url: "https://pokelike.xyz", img: "https://tse1.mm.bing.net/th/id/OIP.-DNav8VsKmZcpwDAwkpopQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Pokechill", url: "https://play-pokechill.github.io/", img: "https://incrementaldb.b-cdn.net/img/484832icon.png" },
     
         ]
     arrayFinal = informacoesJogos
