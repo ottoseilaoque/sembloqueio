@@ -114,8 +114,6 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Pokelike", url: "https://pokelike.xyz", img: "https://tse1.mm.bing.net/th/id/OIP.-DNav8VsKmZcpwDAwkpopQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Pokechill", url: "https://play-pokechill.github.io/", img: "https://incrementaldb.b-cdn.net/img/484832icon.png" },
             { nome: "ClassicGameZone", url: "https://classicgamezone.com/", img: "https://http2.mlstatic.com/D_NQ_NP_860502-MLU71256099899_082023-O.webp" },
-            { nome: "it's a(door)able", url: "https://ncase.me/door/", img: "https://th.bing.com/th/id/R.f653baa48f8764ebde331046dcfa199d?rik=gAYOVqhLL7Taug&riu=http%3a%2f%2fncase.me%2fdoor%2fthumbnail.png&ehk=1z6gRLFZTIwmLZujkSQUvF2pDxH7VzE%2fIVzr6auHTmA%3d&risl=&pid=ImgRaw&r=0" },
-    
         ]
     arrayFinal = informacoesJogos
         resetarValores()
