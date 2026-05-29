@@ -114,6 +114,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Pokechill", url: "https://play-pokechill.github.io/", img: "https://incrementaldb.b-cdn.net/img/484832icon.png" },
             { nome: "ClassicGameZone", url: "https://classicgamezone.com/", img: "https://http2.mlstatic.com/D_NQ_NP_860502-MLU71256099899_082023-O.webp" },
             { nome: "Quenq", url: "https://quenq.com/", img: "https://quenq.com/og.jpg" },
+            { nome: "Oasis", url: "https://oasis.decart.ai/welcome", img: "https://tse3.mm.bing.net/th/id/OIP.Omkqx6B7eb6f3FE_AAdDugHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
             
         ]
     arrayFinal = informacoesJogos
