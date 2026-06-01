@@ -115,6 +115,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "ClassicGameZone", url: "https://classicgamezone.com/", img: "https://http2.mlstatic.com/D_NQ_NP_860502-MLU71256099899_082023-O.webp" },
             { nome: "Quenq", url: "https://quenq.com/", img: "https://quenq.com/og.jpg" },
             { nome: "Oasis", url: "https://oasis.decart.ai/welcome", img: "https://tse3.mm.bing.net/th/id/OIP.Omkqx6B7eb6f3FE_AAdDugHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Jogos do g1", url: "https://g1.globo.com/jogos/", img: "https://tse2.mm.bing.net/th/id/OIP.L_iImcL-1TXh2jPEQfQ28gAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
             
         ]
     arrayFinal = informacoesJogos
