@@ -117,6 +117,20 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Oasis", url: "https://oasis.decart.ai/welcome", img: "https://tse3.mm.bing.net/th/id/OIP.Omkqx6B7eb6f3FE_AAdDugHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Jogos do g1", url: "https://g1.globo.com/jogos/", img: "https://tse2.mm.bing.net/th/id/OIP.L_iImcL-1TXh2jPEQfQ28gAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Pokennection", url: "https://www.pokennection.com/", img: "https://pngimg.com/uploads/pokeball/pokeball_PNG21.png" },
+            { nome: "A dark room", url: "https://adarkroom.doublespeakgames.com/", img: "https://play-lh.googleusercontent.com/b-CitCFqGzCKgrR-FFm5diz9f1DL65SiIAw0d-_UwrL8agFmFRhQdG32kCuFduDs-w" },
+            { nome: "ev.io", url: "https://ev.io/", img: "https://nftevening.com/wp-content/uploads/2023/12/ev-io-og-image.png" },
+            { nome: "Paper.io 2", url: "https://paperio.site/", img: "https://store-images.s-microsoft.com/image/apps.35204.13659571463624944.c62f29b2-4957-4ac6-bf8e-27d3158d353d.8ed97439-d00a-430d-8b2c-d004b2b8554d" },
+            { nome: "Brutal.io", url: "https://brutal.io/", img: "https://tse3.mm.bing.net/th/id/OIP.dwvPLBg6RF6Fyq7sKmQT_wHaFD?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Browser Quest", url: "https://browserquest.gonzalo-mg.com/", img: "https://play-lh.googleusercontent.com/_NsYztuk_PprEVE1zA551WdlzyOeAEuqkl9XVpUQr6n-_EW7ygIUUUlGpUf1zW-zBw" },
+            { nome: "2048", url: "https://play2048.co/", img: "https://tse2.mm.bing.net/th/id/OIP.vBZr715b4avX7wjVhQaHSwHaEK?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Quordle", url: "https://www.merriam-webster.com/games/quordle/#/classic", img: "https://1oar.com/upload/imgs/game/quordle-game-2-.png" },
+            { nome: "Dordle", url: "https://dordle.io/", img: "https://tse4.mm.bing.net/th/id/OIP.OB5ttQaAEKi3fAiAn1EFeQHaEK?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Semantle", url: "https://semantle.com/", img: "https://easternherald.com/wp-content/uploads/2025/01/semantle.png" },
+            { nome: "Reversi Pro", url: "https://reversi.pro/pt/", img: "https://play-lh.googleusercontent.com/e6UDlXMkKI3ygCoDj-ShB4z5D_Xh7_ORv0OWWOCr6cCdtQGtzMeL_4xwYUHAhuMWUQ" },
+            { nome: "Curve Fever", url: "https://curvefever.pro/", img: "https://thfvnext.bing.com/th/id/R.2b413aa49e425d3b7960f5c89e6fb607?rik=jkVfeyK9bD8Q9Q&pid=ImgRaw&r=0" },
+            { nome: "Silver Games", url: "https://www.silvergames.com/br/", img: "" },
+            { nome: "Candy box 2", url: "https://candybox2.github.io/", img: "https://static.wikia.nocookie.net/candybox2_gamepedia/images/c/c9/Logo.png/revision/latest/scale-to-width-down/430?cb=20140827130237" },
+            { nome: "Atari Classics", url: "https://atariclassics.com.br/", img: "https://tse2.mm.bing.net/th/id/OIP.3rdW7-pmy6sSZd8gt-qfFAHaEK?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" },
             
         ]
     arrayFinal = informacoesJogos
