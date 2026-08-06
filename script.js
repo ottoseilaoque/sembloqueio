@@ -133,6 +133,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Atari Classics", url: "https://atariclassics.com.br/", img: "https://tse2.mm.bing.net/th/id/OIP.3rdW7-pmy6sSZd8gt-qfFAHaEK?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "7-0", url: "https://7a0.com.br/play", img: "https://7a0.com.br/favicon.ico" },
             { nome: "Stop Game", url: "https://stopgame.com.br/pt", img: "https://tse1.mm.bing.net/th/id/OIP.zQ7OOjPvwIz1FZmUFalHmQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Bongo Cat", url: "https://bongo.cat/", img: "https://tse3.mm.bing.net/th/id/OIP.i-AAdby2T4_ARNQNRHiS4wHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
 
             
         ]
