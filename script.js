@@ -136,6 +136,9 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Bongo Cat", url: "https://bongo.cat/", img: "https://tse3.mm.bing.net/th/id/OIP.i-AAdby2T4_ARNQNRHiS4wHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "82-0", url: "https://www.82-0.com/", img: "https://tse2.mm.bing.net/th/id/OIP.8OwWNrcywiRssw9_LHcLGwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "38-0", url: "https://38zero.com.br/multi", img: "https://pbs.twimg.com/profile_images/2063665363888578560/Z5K9NOrT.jpg" },
+            { nome: "20-0", url: "https://www.20-0.com/daily", img: "https://th.bing.com/th?id=OIF.sHvqi%2bQKCBLV9zuMtdjtgg&r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Era ball", url: "https://eraball.com/", img: "https://tse3.mm.bing.net/th/id/OIP.-OoRp3eAcW0_HaHIerTx-QHaHk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
+            { nome: "Goat lab", url: "https://www.playgoatlab.com/", img: "https://www.playgoatlab.com/GOATLABLOGO.webp" },
 
             
         ]
