@@ -139,6 +139,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "20-0", url: "https://www.20-0.com/daily", img: "https://th.bing.com/th?id=OIF.sHvqi%2bQKCBLV9zuMtdjtgg&r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Era ball", url: "https://eraball.com/", img: "https://tse3.mm.bing.net/th/id/OIP.-OoRp3eAcW0_HaHIerTx-QHaHk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Goat lab", url: "https://www.playgoatlab.com/", img: "https://www.playgoatlab.com/GOATLABLOGO.webp" },
+            { nome: "Conq.io", url: "https://www.conq.io/", img: "https://minigamesville.com/wp-content/uploads/2025/08/Conq_io.png" },
 
             
         ]
