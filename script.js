@@ -141,6 +141,7 @@ const idJogos = document.querySelector("#jogos")
             { nome: "Era ball", url: "https://eraball.com/", img: "https://tse3.mm.bing.net/th/id/OIP.-OoRp3eAcW0_HaHIerTx-QHaHk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
             { nome: "Goat lab", url: "https://www.playgoatlab.com/", img: "https://www.playgoatlab.com/GOATLABLOGO.webp" },
             { nome: "Conq.io", url: "https://www.conq.io/", img: "https://minigamesville.com/wp-content/uploads/2025/08/Conq_io.png" },
+            { nome: "Cutle", url: "https://cutle.org/", img: "https://cdn.alldle.net/games/c178938e-df37-474e-9977-929bcf9eb514.webp" },
 
             
         ]
