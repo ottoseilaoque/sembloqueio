@@ -6,7 +6,7 @@ document.addEventListener("keydown", (event) => {
 
 const idJogos = document.querySelector("#jogos")
         const informacoesJogos = [
-            { nome: "Conexo", url: "https://conexo.ws/pt/", img: "https://th.bing.com/th/id/OIP.wdpL07KYYRzUFSWmkm6dygHaE8?r=0&rs=1&pid=ImgDetMain" },
+            { nome: "Conexo", url: "https://conexo.ws/pt/", img: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1PW5UM.img?w=768&h=543&m=6" },
             { nome: "termo", url: "https://termo.pt/", img: "https://play-lh.googleusercontent.com/HMqznNZmnuR2wmipfZUaPcqrZnkWT9xOoV7QepkuMM5F7NiMviYzqmC-IWlzwFbUew" },
             { nome: "Xadrez", url: "https://www.mathsisfun.com/games/chess.html", img: "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpRCNUAz.png" },
             { nome: "Yandex games", url: "https://yandex.com/games/", img: "https://play-lh.googleusercontent.com/yi6-in34SPMUTRgna0EqQyj6B0lZNLeRCBarSxwdqm5rv-SO46FJmjQfrSRkbHSk4F-V" },
